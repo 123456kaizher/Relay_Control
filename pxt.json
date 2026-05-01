@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "Relay Module": "github:123456kaizher/relay_module#v0.0.1"
+        "Relay Module": "github:123456kaizher/relay_module#v0.0.1",
+        "TEST": "github:123456kaizher/Relay_Control#v1.1.0"
     },
     "files": [
         "main.blocks",
